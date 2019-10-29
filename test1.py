@@ -2,7 +2,7 @@
 
 # print("Mike H")
 # 29.10.2019 15:17:34
-# print ( 365 / 180)
+print ( 365 / 180)
 import turtle
 turtle.color("red")
 
