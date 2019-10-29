@@ -1,5 +1,5 @@
 import turtle
-
+# 29.10.2019 15:18:10
 turtle.left(20)
 
 len = 100
