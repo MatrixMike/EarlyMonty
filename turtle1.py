@@ -2,15 +2,15 @@ import turtle
 
 turtle.left(20)
 
-len=100
-angle=90
+len = 100
+angle = 90
 turtle.forward(len)
 turtle.left(angle)
 turtle.forward(len)
 turtle.left(angle)
 turtle.forward(len)
 turtle.left(angle)
-turtle.forward(len)     
+turtle.forward(len)
 
 
 turtle.shape("turtle")
@@ -22,7 +22,7 @@ turtle.left(angle)
 turtle.color("blue")
 turtle.forward(len)
 
-timmy=turtle
+timmy = turtle
 timmy.color("green")
 timmy.forward(len)
 timmy.left(angle)
@@ -31,4 +31,3 @@ timmy.left(angle)
 timmy.forward(len)
 timmy.left(angle)
 timmy.forward(len)
-
